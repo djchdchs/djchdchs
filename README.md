@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello%F0%9F%91%8B;Bashkatov+Stanislav;I'm+Frontend+Developer!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello%F0%9F%91%8B;Bashkatov+Stanislav;I'm+Frontend+Developer!" alt="Typing SVG" /></a>
 </h1>
 <h5 align="center">
   <code><a href="https://t.me/El1138" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg">Telegram</a></code>
