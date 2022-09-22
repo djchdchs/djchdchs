@@ -4,7 +4,6 @@
 <h5 align="center">
   <code>
     <a href="https://t.me/El1138" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg">  Telegram</a></code>
-      <code>
 </h5>
 <br>
 <p align="center">
